@@ -1,4 +1,4 @@
-# Expense Tracker
+# Expense_Tracker
 
 A feature-rich command-line application for tracking and analyzing personal expenses.
 
