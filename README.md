@@ -119,6 +119,7 @@ python expense_tracker.py
 ```
 Demo ![Interface](https://github.com/user-attachments/assets/d9192e4a-6931-4ae1-95a0-ad3a01f01979)
 
+LICENSE https://github.com/PRATHAM777P/Expense-_Tracker/blob/main/LICENSE
 ## 📝 Acknowledgments
 - [Python](https://www.python.org/)
 - [VS Code](https://code.visualstudio.com/)
